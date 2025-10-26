@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Codingsnail80
+- 👋 Hi, I’m @Codingsnail80 I
+- I love to program, work on open sourcce projects, and build computers.
 - languages: Python(well) and Java(still learning)
 - hope your having a good day (☞ﾟヮﾟ)☞
 
